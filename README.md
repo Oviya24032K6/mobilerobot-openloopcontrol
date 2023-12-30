@@ -90,7 +90,8 @@ if _name_ == '_main_':
     ep_robot.close()
 ## MobileRobot Movement Image:
 
-![MOVEMENT IMAGE](<WhatsApp Image 2023-12-30 at 08.50.36_037cfed5.jpg>)
+![image](https://github.com/Oviya24032K6/mobilerobot-openloopcontrol/assets/147139999/517c39dc-4ec7-4cbc-96a3-7e53e18e69a1)
+
 
 ## MobileRobot Movement Video:
 
