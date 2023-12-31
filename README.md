@@ -90,12 +90,11 @@ if _name_ == '_main_':
     ep_robot.close()
 ```
 
-
-
 ## MobileRobot Movement Image:
 
 ``` 
-![mobilerobopic](https://github.com/Oviya24032K6/mobilerobot-openloopcontrol/assets/147139999/48acd89a-c1f4-4596-9343-b7eba643826b)
+![image](https://github.com/Oviya24032K6/mobilerobot-openloopcontrol/assets/147139999/dcca7f18-2966-4c75-9432-4f88096bc5ea)
+
 
 
 ```
