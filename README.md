@@ -93,7 +93,8 @@ if _name_ == '_main_':
 ## MobileRobot Movement Image:
 
 ```
-IMAGE: ![image](https://github.com/Oviya24032K6/mobilerobot-openloopcontrol/assets/147139999/e7a6009d-4c9f-4e6c-a02b-2b69918474bb)
+
+![image](https://github.com/Oviya24032K6/mobilerobot-openloopcontrol/assets/147139999/d344b543-5232-4ff5-82c0-bd64c09149c2)
 
 
 ```
