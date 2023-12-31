@@ -91,10 +91,10 @@ if _name_ == '_main_':
 ```
 
 ## MobileRobot Movement Image:
+
 ```
+
 ![image](https://github.com/Oviya24032K6/mobilerobot-openloopcontrol/assets/147139999/fb31459a-c213-433f-bcb3-82c2da6dc24f)
-
-
 
 ```
 ## MobileRobot Movement Video:
@@ -104,18 +104,16 @@ Upload your video in Youtube and paste your video-id here
 Youtube Link:https://youtu.be/5k9NR2ovO20?si=R64RWAJO0A9smbig
 
 ```
-
-
 https://youtu.be/5k9NR2ovO20?si=R64RWAJO0A9smbig
 ```
 ## Result:
-```
 
+``
 Thus the python program code is developed to move the mobilerobot in the predefined path.
-``` 
+```
 
 ```
 Mobile Robotics Laboratory
 Department of Artificial Intelligence and Data Science/ Machine Learning
 Saveetha Engineering College
-```
+``
